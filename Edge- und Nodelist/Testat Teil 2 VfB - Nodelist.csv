@@ -1,16 +1,16 @@
 id,name,type,age,section,representation,position
-TH,Thomas Hitzlsperger,0,2,V,4,1
-SH,Stefan Heim,0,3,V,2,1
-JR,Jochen Roettgermann,0,3,V,3,1
-OS,Oliver Schraft,0,3,V,5,3
-CV,Claus Vogt,0,3,AR,1,1
-WP,Wilfried Porth,0,4,AR,6,2
-RA,Rainer Adrion,0,4,AR,6,3
-BG,Bernd Gaiser,0,3,AR,1,3
-HJ,Hartmut Jenner,0,3,AR,6,2
-HO,Hermann Ohlicher,0,4,AR,6,3
-FR,Franz Reiner,0,3,AR,6,3
-BS,Bertram Sugg,0,3,AR,6,3
+TH,Thomas Hitzlsperger,0,2,1,4,1
+SH,Stefan Heim,0,3,1,2,1
+JR,Jochen Roettgermann,0,3,1,3,1
+OS,Oliver Schraft,0,3,1,5,3
+CV,Claus Vogt,0,3,2,1,1
+WP,Wilfried Porth,0,4,2,6,2
+RA,Rainer Adrion,0,4,2,6,3
+BG,Bernd Gaiser,0,3,2,1,3
+HJ,Hartmut Jenner,0,3,2,6,2
+HO,Hermann Ohlicher,0,4,2,6,3
+FR,Franz Reiner,0,3,2,6,3
+BS,Bertram Sugg,0,3,2,6,3
 RW,VfB Reha-Welt GmbH,1,NA,NA,NA,NA
 NP,NeckarPark GmbH,1,NA,NA,NA,NA
 SAB,VfB Stuttgart Arena Betriebs GmbH,1,NA,NA,NA,NA
