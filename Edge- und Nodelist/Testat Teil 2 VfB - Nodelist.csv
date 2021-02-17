@@ -1,4 +1,4 @@
-id,name,type,age,function,representation,position
+id,name,type,age,section,representation,position
 TH,Thomas Hitzlsperger,0,2,V,4,1
 SH,Stefan Heim,0,3,V,2,1
 JR,Jochen Roettgermann,0,3,V,3,1
@@ -18,7 +18,7 @@ SM,VfB Stuttgart Marketing GmbH,1,NA,NA,NA,NA
 SB,VfB Stuttgart Beteiligungs GmbH,1,NA,NA,NA,NA
 WF,Wuerttembergischer Fußballverband,1,NA,NA,NA,NA
 VSD,Verband fuer Sportoekonomie und Sportmanagement Deutschland,1,NA,NA,NA,NA
-SC,Sponsorcom (Agentur),1,NA,NA,NA,NA
+SC,Sponsorcom ,1,NA,NA,NA,NA
 IMG,International Management Group,1,NA,NA,NA,NA
 IN,in.Stuttgart,1,NA,NA,NA,NA
 GL,Geschaeftsleitung VfB,1,NA,NA,NA,NA
@@ -29,7 +29,7 @@ RB,Robert Bosch GmbH,1,NA,NA,NA,NA
 HK,Haniel Konzern,1,NA,NA,NA,NA
 MG,Metro Group,1,NA,NA,NA,NA
 IG,Intesia Group Holding GmbH,1,NA,NA,NA,NA
-FC,FC PlayFair Verein fuer Integritaet im Profifußball,1,NA,NA,NA,NA
+FC,FC PlayFair ,1,NA,NA,NA,NA
 MVE,VfB Mitgliederausschuss fuer Vereinsentwicklung,1,NA,NA,NA,NA
 DAG,Daimler AG,1,NA,NA,NA,NA
 DFB,Deutscher Fußballbund,1,NA,NA,NA,NA
@@ -46,7 +46,7 @@ DAF,Deutsche Akademie fuer Fußballkutur,1,NA,NA,NA,NA
 NLZ,Nachwuchsleistungszentrum VfB,1,NA,NA,NA,NA
 FCB,FC Bayern Muenchen,1,NA,NA,NA,NA
 AV,Aston Villa,1,NA,NA,NA,NA
-AG,Airbus Group (damals EADS),1,NA,NA,NA,NA
+AG,Airbus Group,1,NA,NA,NA,NA
 DTA,Daimler Truck AG,1,NA,NA,NA,NA
 SWM,Suedwestmetall,1,NA,NA,NA,NA
 H,11hilft,1,NA,NA,NA,NA
