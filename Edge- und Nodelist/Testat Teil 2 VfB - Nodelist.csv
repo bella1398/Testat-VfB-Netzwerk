@@ -11,20 +11,20 @@ HJ,Hartmut Jenner,0,3,2,6,2
 HO,Hermann Ohlicher,0,4,2,6,3
 FR,Franz Reiner,0,3,2,6,3
 BS,Bertram Sugg,0,3,2,6,3
-RW,VfB Reha-Welt GmbH,1,NA,NA,NA,NA
-NP,NeckarPark GmbH,1,NA,NA,NA,NA
-SAB,VfB Stuttgart Arena Betriebs GmbH,1,NA,NA,NA,NA
-SM,VfB Stuttgart Marketing GmbH,1,NA,NA,NA,NA
-SB,VfB Stuttgart Beteiligungs GmbH,1,NA,NA,NA,NA
-WF,Wuerttembergischer Fußballverband,1,NA,NA,NA,NA
-VSD,Verband fuer Sportoekonomie und Sportmanagement Deutschland,1,NA,NA,NA,NA
-SC,Sponsorcom ,1,NA,NA,NA,NA
-IMG,International Management Group,1,NA,NA,NA,NA
-IN,in.Stuttgart,1,NA,NA,NA,NA
-GL,Geschaeftsleitung VfB,1,NA,NA,NA,NA
-FIFA,FIFA,1,NA,NA,NA,NA
-VfLW,VfL Wolfsburg,1,NA,NA,NA,NA
-DFL,Kommission Clubmedien Deutsche Fußball Liga,1,NA,NA,NA,NA
+RW,VfB Reha-Welt GmbH,1,KA,KA,KA,KA
+NP,NeckarPark GmbH,1,KA,KA,KA,KA
+SAB,VfB Stuttgart Arena Betriebs GmbH,1,KA,KA,KA,KA
+SM,VfB Stuttgart Marketing GmbH,1,KA,KA,KA,KA
+SB,VfB Stuttgart Beteiligungs GmbH,1,KA,KA,KA,KA
+WF,Wuerttembergischer Fußballverband,1,KA,KA,KA,KA
+VSD,Verband fuer Sportoekonomie und Sportmanagement Deutschland,1,KA,KA,KA,KA
+SC,Sponsorcom ,1,KA,KA,KA,KA
+IMG,International Management Group,1,KA,KA,KA,KA
+IN,in.Stuttgart,1,KA,KA,KA,KA
+GL,Geschaeftsleitung VfB,1,KA,KA,KA,KA
+FIFA,FIFA,1,KA,KA,KA,KA
+VfLW,VfL Wolfsburg,1,KA,KA,KA,KA
+DFL,Kommission Clubmedien Deutsche Fußball Liga,1,KA,KA,KA,KA
 RB,Robert Bosch GmbH,1,NA,NA,NA,NA
 HK,Haniel Konzern,1,NA,NA,NA,NA
 MG,Metro Group,1,NA,NA,NA,NA
@@ -35,17 +35,17 @@ DAG,Daimler AG,1,NA,NA,NA,NA
 DFB,Deutscher Fußballbund,1,NA,NA,NA,NA
 HPM,Horvarth and Partners Management Consultants,1,NA,NA,NA,NA
 RH,Recaro Holding GmbH,1,NA,NA,NA,NA
-PD,Praesidium VfB,1,NA,NA,NA,NA
+PD,Praesidium VfB,1,GA,GA,GA,GA
 AK,Alfred Kaercher SE und Co KG,1,NA,NA,NA,NA
 TL,Totto Lotto GmbH Baden-Wuerttemberg,1,NA,NA,NA,NA
 ER,Ehrenrat VfB,1,NA,NA,NA,NA
 MBB,Mercedes Benz Bank AG,1,NA,NA,NA,NA
 FCG,Fanclub Courage Gerlingen ,1,NA,NA,NA,NA
-ARD,Fernsehsender,1,NA,NA,NA,NA
-DAF,Deutsche Akademie fuer Fußballkutur,1,NA,NA,NA,NA
-NLZ,Nachwuchsleistungszentrum VfB,1,NA,NA,NA,NA
-FCB,FC Bayern Muenchen,1,NA,NA,NA,NA
-AV,Aston Villa,1,NA,NA,NA,NA
+ARD,Fernsehsender,1,KA,KA,KA,KA
+DAF,Deutsche Akademie fuer Fußballkutur,1,KA,KA,KA,KA
+NLZ,Nachwuchsleistungszentrum VfB,1,KA,KA,KA,KA
+FCB,FC Bayern Muenchen,1,KA,KA,KA,KA
+AV,Aston Villa,1,KA,KA,KA,KA
 AG,Airbus Group,1,NA,NA,NA,NA
 DTA,Daimler Truck AG,1,NA,NA,NA,NA
 SWM,Suedwestmetall,1,NA,NA,NA,NA
